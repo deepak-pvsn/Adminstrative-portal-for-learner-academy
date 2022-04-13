@@ -1,0 +1,17 @@
+Êþº¾   4 J  main/java/model/Student  java/lang/Object id I fname Ljava/lang/String; lname age aclass <init> *(ILjava/lang/String;Ljava/lang/String;II)V Code
+     ()V	    	    	   	 	   
+ 	     LineNumberTable LocalVariableTable this Lmain/java/model/Student; getId ()I setId (I)V getFname ()Ljava/lang/String; setFname (Ljava/lang/String;)V getLname setLname getAge setAge 	getAclass 	setAclass toString 0 java/lang/StringBuilder 2 Student [id=
+ / 4  '
+ / 6 7 8 append (I)Ljava/lang/StringBuilder; : , fname=
+ / < 7 = -(Ljava/lang/String;)Ljava/lang/StringBuilder; ? , lname= A , age= C 	, aclass= E ]
+ / G . % 
+SourceFile Student.java !                 	     
+            
+     ”      *· *µ *,µ *-µ *µ *µ ±              	             >                            	       
+             !     /     *´ ¬                         " #     >     *µ ±       
+                          $ %     /     *´ °                         & '     >     *+µ ±       
+    "  #                    ( %     /     *´ °           %              ) '     >     *+µ ±       
+    (  )                	    * !     /     *´ ¬           +              + #     >     *µ ±       
+    .  /                
+    , !     /     *´ ¬           1              - #     >     *µ ±       
+    4  5                    . %     {     I» /Y1· 3*´ ¶ 59¶ ;*´ ¶ ;>¶ ;*´ ¶ ;@¶ ;*´ ¶ 5B¶ ;*´ ¶ 5D¶ ;¶ F°           : @ ; E :        I      H    I
