@@ -1,0 +1,10 @@
+Êþº¾   4 &  main/java/model/Subject  java/lang/Object id I name Ljava/lang/String; shortcut <init> ((ILjava/lang/String;Ljava/lang/String;)V Code
+   
+  ()V	    	    	   	  LineNumberTable LocalVariableTable this Lmain/java/model/Subject; getId ()I setId (I)V getShortcut ()Ljava/lang/String; setShortcut (Ljava/lang/String;)V getName setName 
+SourceFile Subject.java !                 	      
+      l     *· 
+*µ *,µ *-µ ±              	 
+        *                        	          /     *´ ¬                               >     *µ ±       
+                                /     *´ °                           !     >     *+µ ±       
+                      	    "      /     *´ °           "              # !     >     *+µ ±       
+    &  '                    $    %
