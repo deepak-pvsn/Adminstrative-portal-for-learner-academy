@@ -1,0 +1,21 @@
+Êþº¾   4 +  main/java/model/Teacher  java/lang/Object id I fname Ljava/lang/String; lname age <init> )(ILjava/lang/String;Ljava/lang/String;I)V Code
+     ()V	    	    	   	 	   
+  LineNumberTable LocalVariableTable this Lmain/java/model/Teacher; getId ()I setId (I)V getFname ()Ljava/lang/String; setFname (Ljava/lang/String;)V getLname setLname getAge setAge 
+SourceFile Teacher.java !                 	     
+    	     
+   €     *· *µ *,µ *-µ *µ ±             
+ 	           4                        	      
+       
+   /     *´ ¬                             
+   >     *µ ±       
+                          ! "  
+   /     *´ °                         # $  
+   >     *+µ ±       
+       !                    % "  
+   /     *´ °           $              & $  
+   >     *+µ ±       
+    (  )                	    '   
+   /     *´ ¬           ,              (    
+   >     *µ ±       
+    0  1                
+    )    *
